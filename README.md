@@ -17,7 +17,7 @@ I created a BMI (Body Mass Index) calculator. This exercise demonstrates the use
 I wrote a Python program to calculate how many weeks are left in a person's life. This exercise demonstrates the use of arithmetic operations and f-strings in Python.
 
 #### Tip Calculator
-I wrote a program to calculate how much each person should pay when splitting a bill, including a tip. This exercise demonstrates the use of arithmetic operations, type conversion, and formatting the result to n decimal places in Python. 
+I wrote a program to calculate how much each person should pay when splitting a bill, including a tip. This exercise demonstrates the use of arithmetic operations, type conversion and formatting the result to n decimal places in Python. 
 
 # License
 
