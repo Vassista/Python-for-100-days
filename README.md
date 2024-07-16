@@ -19,6 +19,24 @@ I wrote a Python program to calculate how many weeks are left in a person's life
 ##### Tip Calculator
 I wrote a program to calculate how much each person should pay when splitting a bill, including a tip. This exercise demonstrates the use of# arithmetic operations, type conversion and formatting the result to n decimal places in Python. 
 
+## Day 3
+
+##### Love Calculator
+This exercise involved creating a program that calculates the compatibility between two people based on their names. It demonstrates the use of string methods and conditional statements.
+
+##### Find the Treasure
+A text-based adventure game where the player makes choices that lead them to different outcomes. This exercise showcases control flow and user input handling.
+
+##### BMI Calculator 2.0
+An enhanced version of the BMI Calculator that provides more detailed health advice based on the BMI score. It's a good practice of using nested if-else statements.
+
+##### Odd or Even
+A simple program that checks if a number is odd or even. This exercise is great for understanding the modulus operator and if statements.
+
+##### Python Pizza
+A program for a pizza order system that calculates the final bill based on the customer's choices. It demonstrates the use of if-else statements and arithmetic operations.
+
+
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
