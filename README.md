@@ -34,7 +34,7 @@ An enhanced version of the BMI Calculator that provides more detailed health adv
 A simple program that checks if a number is odd or even. This exercise is great for understanding the modulus operator and if statements.
 
 ##### Python Pizza
-A program for a pizza order system that calculates the final bill based on the customer's choices. It demonstrates the use of if-else statements and arithmetic operations.
+A program for a pizza order system that calculates the final bill based on the customer's choices. It demonstrates the use of conditional statements and arithmetic operations.
 
 
 # License
