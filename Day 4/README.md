@@ -24,4 +24,4 @@
 - **Concepts Learned:**
   - Implementing a simple game logic and rules.
   - How to use lists to store multiple items and select from them.
-  - Enhancing my understanding of conditional statements to cover various game outcomes.
+  - Understanding of conditional statements to cover various control flows.
