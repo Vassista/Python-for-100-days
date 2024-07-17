@@ -1,4 +1,4 @@
-# Day 4 Learning Log
+# Day 4 
 
 Today, I worked on several Python projects, each focusing on different aspects of programming. Here's a summary of what I've learned:
 
