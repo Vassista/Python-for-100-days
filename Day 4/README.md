@@ -1,7 +1,5 @@
 # Day 4 
 
-Today, I worked on several Python projects, each focusing on different aspects of programming. Here's a summary of what I've learned:
-
 ## Who Will Pay the Bill?
 - **File:** `Day 4/who will pay the bill.py`
 - **Concepts Learned:**
