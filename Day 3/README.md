@@ -14,3 +14,4 @@ A simple program that checks if a number is odd or even. This exercise is great 
 
 ##### Python Pizza
 A program for a pizza order system that calculates the final bill based on the customer's choices. It demonstrates the use of conditional statements and arithmetic operations.
+̄

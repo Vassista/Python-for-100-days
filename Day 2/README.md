@@ -10,3 +10,4 @@ A Python program to calculate how many weeks are left in a person's life. This e
 
 ##### Tip Calculator
 A program to calculate how much each person should pay when splitting a bill, including a percentage of the total bill as a tip. This exercise demonstrates the use of# arithmetic operations, type conversion and formatting the result to n decimal places in Python. 
+̄
