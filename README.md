@@ -7,7 +7,7 @@ Day 1: [Introduction to Python](./Day%201) <br>
 Day 2: [Data Types](./Day%202) <br>
 Day 3: [Control Flow](./Day%203) <br>
 Day 4: [Randomisation and Python Lists](./Day%204) <br>
-Day 5: [Loops](./Day%205) <br>̄
+Day 5: [Loops](./Day%205) <br>
 
 # License
 
