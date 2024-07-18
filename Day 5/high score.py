@@ -12,4 +12,4 @@ print(f"The highest score in the class is: {max(student_scores)}")
 # for i in student_scores:
 #   if i > max:
 #     i,max = max,i
-# print(f"The highest score in the class is: {max}")
+# print(f"Thē highest score in the class is: {max}").
