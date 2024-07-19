@@ -13,7 +13,7 @@ while not at_goal():
     else:
          turn_left()
 
-#This code does't work here. This is the solution for the reeborg's final test at https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds/menus/reeborg_intro_en.json&name=Maze&url=worlds/tutorial_en/maze1.json
+#This code does't work here. This is the solution for the reeborg's final test at https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds/menus/reeborg_intro_en.json&name=Maze&url=worlds/tutorial_en/maze1.json.
 
 
 ################################################################
