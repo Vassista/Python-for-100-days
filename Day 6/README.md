@@ -1,4 +1,4 @@
-# Day 5
+# Day 6
 ## Reeborg's Maze Solver
 - `Reeborg's Maze.py`: The main Python script that contains the logic to solve the maze on Reeborg's World.
 
